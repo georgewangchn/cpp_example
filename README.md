@@ -1,4 +1,5 @@
 # PaddleOCRv4_TensorRT
+Fork from https://github.com/frozenlo/PaddleOCRV4-TensorRT
 ## Enviroment
 * cuda 12.4
 * cudnn 8
